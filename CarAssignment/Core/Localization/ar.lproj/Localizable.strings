@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  CarAssignment
+
+  Created by Engy Hussein on 7/10/18.
+  Copyright © 2018 Engy Hussein. All rights reserved.
+*/
+
+"cars.title.label" = "السيارات و الآلات";
+"filter.label" = "تصفية";
+"sort.label" = "ترتيب";
+"grid.view.label" = "عرض الشبكة";
+"lot.label" = "رقم السلعة";
+"bids.label" = "العروض";
+"time.left.label" = "الوقت المتبقي";
+"search.label" = "للبحث انتقل لاسفل";
+"error" = "خطأ اثناء تحميل البيانات";
+
+

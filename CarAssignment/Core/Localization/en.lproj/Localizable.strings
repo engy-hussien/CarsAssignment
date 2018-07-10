@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  CarAssignment
+
+  Created by Engy Hussein on 7/10/18.
+  Copyright © 2018 Engy Hussein. All rights reserved.
+*/
+
+"cars.title.label" = "Cars & Machinery";
+"filter.label" = "Filter";
+"sort.label" = "Sort";
+"grid.view.label" = "Grid View";
+"lot.label" = "Lot #";
+"bids.label" = "Bids";
+"time.left.label" = "Time Left";
+"search.label" = "Scroll down to Search";
+"error" = "Error while loading data";

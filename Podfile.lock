@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.7.2)
+  - CountdownLabel (3.0.0)
+  - NVActivityIndicatorView (4.3.0):
+    - NVActivityIndicatorView/Presenter (= 4.3.0)
+  - NVActivityIndicatorView/Presenter (4.3.0)
+  - ObjectMapper (3.3.0)
+  - PopupController (0.2.0)
+  - PullToRefreshKit (0.8.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - CountdownLabel
+  - NVActivityIndicatorView
+  - ObjectMapper (~> 3.3)
+  - PopupController
+  - PullToRefreshKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CountdownLabel
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - PopupController
+    - PullToRefreshKit
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  CountdownLabel: 4534a68892b1deb73fda18702dfdc2c8444cec08
+  NVActivityIndicatorView: 963f62bf9f993fcf23218e55958e5b1761b9504c
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  PopupController: 0b69fdf11cbeaa807789a8c3992599083640988f
+  PullToRefreshKit: 172df52ab9c6cb2c1d4b1872b49f448d6291523f
+
+PODFILE CHECKSUM: a8c74b9a972b986d972b71bd49238b22ea631372
+
+COCOAPODS: 1.5.3
